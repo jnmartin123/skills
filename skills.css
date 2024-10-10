@@ -257,7 +257,7 @@ h1{
     height:50px;
     color:rgb(49, 141, 121);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
-    font-size: 17px;
+    font-size: 14px;
 
 }
 .design{
@@ -265,7 +265,7 @@ h1{
     height:50px;
     color:rgb(49, 141, 121);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
-    font-size: 17px;
+    font-size: 14px;
 }
 
 .develop{
@@ -273,7 +273,7 @@ h1{
     height:50px;
     color:rgb(49, 141, 121);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 17px;
+    font-size: 14px;
 }
 
 .test{
@@ -281,7 +281,7 @@ h1{
     height:50px;
     color:rgb(49, 141, 121);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
-    font-size: 17px;
+    font-size: 14px;
 }
 
 .launch{
@@ -289,25 +289,14 @@ h1{
     height:50px;
     color:rgb(49, 141, 121);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 17px;
-}
-
-
-.about-me{
-    color:rgb(49, 141, 121);
-    text-align: center;
-    font-size: 25px;
-    margin-bottom: 50px;
-    
+    font-size: 14px;
 }
 
 
 
-.text{
-   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-   font-size: 22px;
-   margin-top: 20px;
-   color:white;
-   text-align: center;
+
+
+
+
 
 }
