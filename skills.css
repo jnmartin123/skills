@@ -52,96 +52,96 @@ h1{
 
 
 
-a[href="#home"]:hover{
-color: rgb(85, 84, 84);
-}
-a[href="#home"]:active{
-    color: rgb(195, 192, 192);
-}
-a[href="#home"]{
-   display: inline-block;
-   font-size:20px;
-   font-family: Arial, Helvetica, sans-serif;
-   text-decoration: none;
-   margin-right: 20px;
-   color: rgb(8, 8, 8);
-}
 
-
-
-
-
-a[href="#skill"]:hover{
+a[href="portfolio.html"]:hover{
     color: rgb(85, 84, 84);
     }
-    
-a[href="#skill"]:active{
+    a[href="portfolio.html"]:active{
         color: rgb(195, 192, 192);
     }
-a[href="#skill"]{
-    display: inline-block;
-    font-size: 20px;
-    font-family: Arial, Helvetica, sans-serif;
-    text-decoration: none;
-    margin-right: 20px;
-    color: rgb(8, 8, 8);
-}
+    a[href="portfolio.html"]{
+       display: inline-block;
+       font-size:20px;
+       font-family: Arial, Helvetica, sans-serif;
+       text-decoration: none;
+       margin-right: 20px;
+       color: rgb(8, 8, 8);
+    }
 
 
-a[href="#aboutme"]:hover{
-    color: rgb(85, 84, 84);
+    a[href="skills.html"]:hover{
+        color: rgb(85, 84, 84);
+        }
+        
+    a[href="#skills.html"]:active{
+            color: rgb(195, 192, 192);
+        }
+    a[href="skills.html"]{
+        display: inline-block;
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+        text-decoration: none;
+        margin-right: 20px;
+        color: rgb(8, 8, 8);
+    }
+
+
+
+    a[href="aboutme.html"]:hover{
+        color: rgb(85, 84, 84);
+        }
+        
+    a[href="aboutme.html"]:active{
+            color: rgb(195, 192, 192);
+        }
+    a[href="aboutme.html"]{
+        display: inline-block;
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+        text-decoration: none;
+        margin-right: 20px;
+        color: rgb(8, 8, 8);
     }
     
-a[href="#aboutme"]:active{
-        color: rgb(195, 192, 192);
-    }
-a[href="#aboutme"]{
-    display: inline-block;
-    font-size: 20px;
-    font-family: Arial, Helvetica, sans-serif;
-    text-decoration: none;
-    margin-right: 20px;
-    color: rgb(8, 8, 8);
-}
-
-
-
-
-a[href="#project"]:hover{
-    color: rgb(85, 84, 84);
+    
+    
+    
+    a[href="projects.html"]:hover{
+        color: rgb(85, 84, 84);
+        }
+        
+    a[href="projects.html"]:active{
+            color: rgb(195, 192, 192);
+        }
+    a[href="projects.html"]{
+        display: inline-block;
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+        text-decoration: none;
+        margin-right: 20px;
+        color: rgb(8, 8, 8);
     }
     
-a[href="#project"]:active{
-        color: rgb(195, 192, 192);
-    }
-a[href="#project"]{
-    display: inline-block;
-    font-size: 20px;
-    font-family: Arial, Helvetica, sans-serif;
-    text-decoration: none;
-    margin-right: 20px;
-    color: rgb(8, 8, 8);
-}
-
-
-
-
-
-a[href="#contact"]:hover{
-    color: rgb(85, 84, 84);
-    }
     
-a[href="#contact"]:active{
-        color: rgb(195, 192, 192);
+    
+    
+    
+    a[href="contacts.html"]:hover{
+        color: rgb(85, 84, 84);
+        }
+        
+    a[href="contacts.html"]:active{
+            color: rgb(195, 192, 192);
+        }
+    a[href="contacts.html"]{
+        display: inline-block;
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+        text-decoration: none;
+        margin-right: 20px;
+        color: rgb(8, 8, 8);
     }
-a[href="#contact"]{
-    display: inline-block;
-    font-size: 20px;
-    font-family: Arial, Helvetica, sans-serif;
-    text-decoration: none;
-    margin-right: 20px;
-    color: rgb(8, 8, 8);
-}
+
 
 
 
