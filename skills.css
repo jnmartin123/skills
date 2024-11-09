@@ -84,14 +84,14 @@ a[href="https://jnmartin123.github.io/home/portfolio.html"]:hover{
 
 
 
-    a[href="https://jnmartin123.github.io/aboutme/aboutme.html "]:hover{
+    a[href="https://jnmartin123.github.io/aboutme/aboutme.html"]:hover{
         color: rgb(85, 84, 84);
         }
         
-    a[href=" https://jnmartin123.github.io/aboutme/aboutme.html"]:active{
+    a[href="https://jnmartin123.github.io/aboutme/aboutme.html"]:active{
             color: rgb(195, 192, 192);
         }
-    a[href="https://jnmartin123.github.io/aboutme/aboutme.html "]{
+    a[href="https://jnmartin123.github.io/aboutme/aboutme.html"]{
         display: inline-block;
         font-size: 20px;
         font-family: Arial, Helvetica, sans-serif;
